@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Monaco Shop</string>
+
+    <string name="first_slide">Choose your Products</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Good Service</string>
+    <string name="description1">We provide a wide range of products</string>
+    <string name="description2">We delivery goods to your doorstep</string>
+    <string name="description3">The customer is our booss we are here to serve you.</string>
+</resources>
